@@ -1,5 +1,6 @@
 {
-  "name": "fullcalendar",
+  "name": "@guestyci/fullcalendar",
+  "version": "1.0.1",
   "title": "FullCalendar",
   "description": "Full-sized drag & drop event calendar",
   "keywords": [
